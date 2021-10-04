@@ -17,7 +17,8 @@
 🔆THEN I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, the wind speed, and the humidity
 🔆WHEN I click on a city in the search history
 🔆THEN I am again presented with current and future conditions for that city
-
+## Screenshot
+![Screenshot (89)](https://user-images.githubusercontent.com/87554644/135787526-0a2723b0-a56f-44e6-8694-8300ee312e8e.png)
  
 
 
