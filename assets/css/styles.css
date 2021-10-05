@@ -1,18 +1,9 @@
-ul {
-    list-style: none;
-}
-
-li {
-    border-bottom: 1px solid rgb(75, 68, 168);
-    text-align: left;
-    padding-left: 10px;
-}
-
-
 /* styles for card titles  */
 
 .card-title {
     font-size: 20px;
+    background-color: rgb(250, 252, 253);
+    box-shadow: 500px;
 }
 
 .img {
@@ -25,9 +16,16 @@ li {
 
 .fiveDayColor {
     padding: 20px;
-    background-color: #1E90FF;
-    color: white;
+    background-color: #8ed2fa;
+    color: rgb(8, 8, 8);
     float: left;
     margin: 10px;
-    border: 1px solid rgb(135, 173, 241);
+    border: 1px solid rgb(247, 249, 250);
+    box-shadow: 500px;
+    border-radius: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+    background-color: #abcbf0;
 }

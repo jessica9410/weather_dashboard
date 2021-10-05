@@ -9,7 +9,6 @@ for (var i = 0; i < localStorage.length; i++) {
     // console.log(localStorage.getItem("City"));
     var cityName = $(".list-group").addClass("list-group-item");
 
-
 }
 // Key count for local storage
 var keyCount = 0;
